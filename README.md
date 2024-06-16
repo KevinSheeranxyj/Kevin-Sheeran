@@ -14,7 +14,7 @@ I am a L2 blockchain developer with a passion in open source projects and Web3 d
 
 
 ## Contact
-- [LinkedIn]([https://www.linkedin.com/in/kevin/](https://www.linkedin.com/in/kevin-sheeran-182b1a25b/))
-- [Twitter]([https://twitter.com/kevin](https://x.com/Kevinsheeranxyj))
+- [LinkedIn](https://www.linkedin.com/in/kevin-sheeran-182b1a25b/)
+- [Twitter](https://x.com/Kevinsheeranxyj)
 - [Medium](https://medium.com/@kevinsheeranxyj)
 
